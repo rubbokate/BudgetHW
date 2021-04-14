@@ -8,3 +8,6 @@ With this webpage you can easily track your expenses even when you are offline.
 
 Deployed App:
 
+https://github.com/rubbokate/BudgetHW
+
+https://morning-depths-01984.herokuapp.com/
