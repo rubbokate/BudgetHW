@@ -1,0 +1,27 @@
+{
+  "name": "budgethw",
+  "version": "1.0.0",
+  "description": "A app to track your budget even when you're offline",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubbokate/BudgetHW.git"
+  },
+  "author": "Kaitlyn Rubbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubbokate/BudgetHW/issues"
+  },
+  "homepage": "https://github.com/rubbokate/BudgetHW#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.6.1",
+    "mongoose": "^5.12.3",
+    "morgan": "^1.10.0"
+  }
+}
